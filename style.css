@@ -5,7 +5,9 @@
     font-weight: 700;
     font-style: normal;
   }
-
+.container{
+  display: flex;
+}
   nav{
     display: flex;
     align-items: center;
